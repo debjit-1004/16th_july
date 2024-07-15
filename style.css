@@ -249,7 +249,7 @@ body {
 }
 
 .snowflake:nth-child(odd) {
-    animation-duration: 4s;
+    animation-duration: 6s;
     animation-delay: 0s;
     width: 10px;
     height: 10px;
